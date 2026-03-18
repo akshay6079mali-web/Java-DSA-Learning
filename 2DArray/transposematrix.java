@@ -24,7 +24,7 @@ public class transposematrix {
             System.out.println();
         }
 
-        System.out.print("The Transpoe of Given Matrix is:");
+        System.out.println("The Transpose of Given Matrix is: ");
 
         for (int i = 0 ; i < row ; i ++){
             for (int  j = 0 ; j < col ; j++){
